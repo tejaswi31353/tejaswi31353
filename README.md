@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @tejaswi31353
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Tejaswi Gannamaneni
+- 👀 I’m interested in ... AI, .NET, Full Stack Development
+- 🌱 I’m currently learning ...Master's in applied computer science in northwest missouri state university.
+- 💞️ I’m looking to collaborate on ... Real time projects that deals with machine learning
+- 📫 How to reach me ... Mail ID: <tejaswigannamaneni8@gmail.com>
 
-<!---
-tejaswi31353/tejaswi31353 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
